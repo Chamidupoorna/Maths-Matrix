@@ -1,0 +1,1 @@
+Diagonaliza1on and Moore-Penrose Pseudoinverse
